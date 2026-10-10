@@ -1,5 +1,7 @@
 {
-  "min_version": "1.0.0",
-  "latest_version": "1.0.0",
-  "message": "This version is no longer supported. Please contact Filip to get the latest build."
+  "min_version": "1.1.0",
+  "latest_version": "1.1.0",
+  "message": "This version is out of date. Download the new version from the Google Drive folder: https://drive.google.com/drive/folders/1pPaMj4Gy7tdQCCsuQuvJvl9zZoHpSLa8 - if it opens without your data, see 'Updating to a new version' in its README.txt.",
+  "update_message": "A new version is on the Google Drive folder.",
+  "download_url": "https://drive.google.com/drive/folders/1pPaMj4Gy7tdQCCsuQuvJvl9zZoHpSLa8"
 }
